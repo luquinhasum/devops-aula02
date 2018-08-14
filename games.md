@@ -1,3 +1,3 @@
-God of War 
-call of duty 
-Fifa 
+God of War,
+call of duty,
+Fifa,
