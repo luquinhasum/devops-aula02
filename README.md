@@ -1,1 +1,2 @@
-# devops-aula02
+# devops-aula02 
+Leonardo DiCarprio,Rodrigo Santoro e Tobey maguire 
