@@ -1,4 +1,5 @@
 # devops-aula02 
 Leonardo DiCarprio
-Rodrigo Santoro 
+Jaime Foxx
 Tobey maguire 
+Kevin spacey 
