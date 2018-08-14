@@ -1,4 +1,4 @@
 # devops-aula02 
-Leonardo DiCarprio,
-Rodrigo Santoro, 
-Tobey maguire,
+anos luz 
+Vida Loka pt2 
+Lazer de chefe
